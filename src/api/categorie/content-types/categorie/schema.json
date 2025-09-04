@@ -1,0 +1,12 @@
+{
+  "collectionName": "categories",
+  "info": {
+    "singularName": "categorie",
+    "pluralName": "categories",
+    "displayName": "Catégorie"
+  },
+  "options": { "draftAndPublish": true },
+  "attributes": {
+    "nom": { "type": "string", "required": true }
+  }
+}
