@@ -1,5 +1,5 @@
 export default {
-  'import-export': {
+  'strapi-import-export': {
     enabled: true,
   },
 };
