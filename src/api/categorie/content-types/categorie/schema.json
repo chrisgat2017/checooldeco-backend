@@ -1,9 +1,9 @@
-{
+﻿{
   "collectionName": "categories",
   "info": {
     "singularName": "categorie",
     "pluralName": "categories",
-    "displayName": "Cat�gorie"
+    "displayName": "Catégorie"
   },
   "options": { "draftAndPublish": true },
   "attributes": {
